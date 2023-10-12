@@ -1,4 +1,4 @@
-# Image Super Resolution with Resize-convolution
+# Image Super Resolution with Resize-Convolution
 
 ### Intr
 
