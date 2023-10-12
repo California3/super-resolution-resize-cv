@@ -1,4 +1,4 @@
-## Adv-Cv Group Project
+# Image Super Resolution With Resize-Conv
 
 ### Intr
 
