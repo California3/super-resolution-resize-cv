@@ -248,6 +248,8 @@ Model Name: final_model_resize_v0-2
 
 #### MODEL_NAME  = 'final_model_resize_v2-2'
 
+会得到很好的结果，在限定 epoch 7 内。结果不稳定，当 epoch 超过 7 时。
+
 ![image-20231013032428512](assets/image-20231013032428512.png)
 
 ![image-20231013032443226](assets/image-20231013032443226.png)
