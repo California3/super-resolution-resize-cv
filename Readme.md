@@ -1,6 +1,28 @@
-## **Models Type Test**
+## Adv-Cv Group Project
 
-Guangming Zeng u7100771
+### Intr
+
+...
+
+### Theory
+
+...
+
+### DataSet
+
+```shell
+kaggle datasets download -d adityachandrasekhar/image-super-resolution
+```
+
+https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution/data
+
+### CoLab Experiment Link
+
+https://colab.research.google.com/github/California3/super-resolution-resize-cv/blob/main/esay_training.ipynb
+
+### **Models Performance Testing**
+
+by Guangming Zeng u7100771
 
 #### MODEL_NAME  = 'final_model'
 
