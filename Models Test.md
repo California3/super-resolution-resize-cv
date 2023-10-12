@@ -273,3 +273,79 @@ Model Name: final_model_resize_2-2
 ```
 
 ![image-20231013033053836](assets/image-20231013033053836.png)
+
+#### MODEL_NAME  = 'final_model_resize_v3-2'
+
+![image-20231013032428512](assets/image-20231013032428512.png)
+
+![image-20231013041659247](assets/image-20231013041659247.png)
+
+```
+Epoch 1/7
+700/700 [==============================] - 20s 23ms/step - loss: 0.0640 - acc: 0.5816 - val_loss: 0.0385 - val_acc: 0.6961
+Epoch 2/7
+700/700 [==============================] - 15s 22ms/step - loss: 0.0352 - acc: 0.7303 - val_loss: 0.0335 - val_acc: 0.7157
+Epoch 3/7
+700/700 [==============================] - 15s 21ms/step - loss: 0.0295 - acc: 0.7610 - val_loss: 0.0266 - val_acc: 0.7631
+Epoch 4/7
+700/700 [==============================] - 15s 22ms/step - loss: 0.0278 - acc: 0.7757 - val_loss: 0.0336 - val_acc: 0.7623
+Epoch 5/7
+700/700 [==============================] - 15s 22ms/step - loss: 0.0284 - acc: 0.7683 - val_loss: 0.0237 - val_acc: 0.8707
+Epoch 6/7
+700/700 [==============================] - 15s 21ms/step - loss: 0.0256 - acc: 0.7887 - val_loss: 0.0235 - val_acc: 0.7640
+Epoch 7/7
+700/700 [==============================] - 15s 21ms/step - loss: 0.0245 - acc: 0.7849 - val_loss: 0.0298 - val_acc: 0.7949
+Model Name: final_model_resize_3-2
+```
+
+![image-20231013041816226](assets/image-20231013041816226.png)
+
+#### MODEL_NAME  = 'final_model_resize_v4-2'
+
+epoch 超过或等于 9 时，开始变差。在之前，表现均衡且良好。
+
+![image-20231013032428512](assets/image-20231013032428512.png)
+
+![image-20231013042228699](assets/image-20231013042228699.png)
+
+```
+Epoch 1/7
+700/700 [==============================] - 23s 26ms/step - loss: 0.0698 - acc: 0.6047 - val_loss: 0.0387 - val_acc: 0.6581
+Epoch 2/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0323 - acc: 0.7337 - val_loss: 0.0262 - val_acc: 0.7842
+Epoch 3/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0294 - acc: 0.7423 - val_loss: 0.0282 - val_acc: 0.8123
+Epoch 4/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0274 - acc: 0.7706 - val_loss: 0.0389 - val_acc: 0.7712
+Epoch 5/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0262 - acc: 0.7657 - val_loss: 0.0225 - val_acc: 0.8061
+Epoch 6/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0264 - acc: 0.7657 - val_loss: 0.0225 - val_acc: 0.8193
+Epoch 7/7
+700/700 [==============================] - 18s 25ms/step - loss: 0.0245 - acc: 0.7821 - val_loss: 0.0215 - val_acc: 0.8571
+Model Name: final_model_resize_4-2
+```
+
+![image-20231013042418054](assets/image-20231013042418054.png)
+
+```
+Epoch 1/8
+700/700 [==============================] - 23s 26ms/step - loss: 0.0566 - acc: 0.6519 - val_loss: 0.0332 - val_acc: 0.7060
+Epoch 2/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0304 - acc: 0.7624 - val_loss: 0.0284 - val_acc: 0.8292
+Epoch 3/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0258 - acc: 0.7881 - val_loss: 0.0239 - val_acc: 0.7732
+Epoch 4/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0240 - acc: 0.7942 - val_loss: 0.0230 - val_acc: 0.8153
+Epoch 5/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0505 - acc: 0.7280 - val_loss: 0.0311 - val_acc: 0.7206
+Epoch 6/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0249 - acc: 0.8027 - val_loss: 0.0230 - val_acc: 0.8001
+Epoch 7/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0226 - acc: 0.8128 - val_loss: 0.0210 - val_acc: 0.8170
+Epoch 8/8
+700/700 [==============================] - 18s 25ms/step - loss: 0.0213 - acc: 0.8246 - val_loss: 0.0211 - val_acc: 0.8757
+Model Name: final_model_resize_4-2
+```
+
+![image-20231013042902253](assets/image-20231013042902253.png)
