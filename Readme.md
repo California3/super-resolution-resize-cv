@@ -16,7 +16,7 @@ kaggle datasets download -d adityachandrasekhar/image-super-resolution
 
 https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution/data
 
-### Init Code Come From Kaggle (Deconvolution Layers Method)
+### Init Code Comes From Kaggle (Deconvolution Layers Method)
 
 https://www.kaggle.com/code/satishgunasekaran/low-resolution-images-to-high-resolution#Defining-Model
 
