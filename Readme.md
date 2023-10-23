@@ -16,6 +16,10 @@ kaggle datasets download -d adityachandrasekhar/image-super-resolution
 
 https://www.kaggle.com/datasets/adityachandrasekhar/image-super-resolution/data
 
+### Init Code Come From Kaggle (Deconvolution Layers Method)
+
+https://www.kaggle.com/code/satishgunasekaran/low-resolution-images-to-high-resolution#Defining-Model
+
 ### CoLab Experiment Link
 
 https://colab.research.google.com/github/California3/super-resolution-resize-cv/blob/main/esay_training.ipynb
