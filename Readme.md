@@ -1,13 +1,5 @@
 # Image Super Resolution with Resize-Convolution
 
-### Intr
-
-...
-
-### Theory
-
-...
-
 ### DataSet
 
 ```shell
@@ -248,8 +240,6 @@ Model Name: final_model_resize_1-2
 
 #### MODEL_NAME  = 'final_model_resize0-2'
 
-结果不稳定，当 epoch 超过或在 7 时。
-
 ![image-20231013024330121](assets/image-20231013024330121.png)
 
 ![image-20231013024343586](assets/image-20231013024343586.png)
@@ -273,8 +263,6 @@ Model Name: final_model_resize_v0-2
 ![image-20231013030636112](assets/image-20231013030636112.png)
 
 #### MODEL_NAME  = 'final_model_resize_v2-2'
-
-会得到很好的结果，在限定 epoch 7 内。结果不稳定，当 epoch 超过 7 时。
 
 ![image-20231013032428512](assets/image-20231013032428512.png)
 
@@ -327,8 +315,6 @@ Model Name: final_model_resize_3-2
 ![image-20231013041816226](assets/image-20231013041816226.png)
 
 #### MODEL_NAME  = 'final_model_resize_v4-2'
-
-epoch 超过或等于 9 时，开始变差。在之前，表现均衡且良好。
 
 ![image-20231013032428512](assets/image-20231013032428512.png)
 
